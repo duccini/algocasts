@@ -1,1 +1,1 @@
-# Practice Course "The Coding Interview Bootcamp Algorithms + Data Structures"
+# Practice of the Course "The Coding Interview Bootcamp Algorithms + Data Structures"
